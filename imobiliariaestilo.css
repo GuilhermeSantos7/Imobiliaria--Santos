@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+    font-family: Tahoma;
+}
+
+/*=== Estilos globais ===*/
+
+.secao-global{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.global-paragrafo{
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px; 
+    margin: 10px auto;
+    width: 980px;     
+}
+.span-amarelo{
+    font-weight: bold;
+    color: yellow;
+}
+.span-azul{
+    font-weight: bold;
+    color: #1d80c1;
+}
+.img-global{
+    width: 450px;
+}
+.fundo-global{
+    background-color: #1d80c1;
+    color: white;
+    font-size: 28px;
+    line-height: 42px;
+}
+/*=== 1ªseção ===*/
+.secao-1{
+    background-repeat:no-repeat;
+    background-color:#b9dcfa;
+    background-position: center;
+    background-size:auto
+    
+}
+.secao-1 .img{
+    width: 150px;
+}
+.p-topo{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.link-topo{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+/*=== 2ªseção ===*/
+.secao-2{
+    margin-top: 50px;
+    padding-top: 0px;
+}
+/*=== 3ªseção ===*/
+.secao-3 h1{
+    color:#1d1d1d;
+    margin-bottom: 5px;
+}
+.subtitulo{
+    color: #1d80c1;
+    font-weight: normal;
+    margin-top: 0px;
+}
+/*=== 4ªseção ===*/
+.secao-4 p{
+    font-size: 22px;
+    width: 700px;
+}
+.secao-4 ul{
+    margin: 40px auto;
+    width: 135px;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+/*=== 5ªseção ===*/
+.secao-5 h3{
+    font-size: 22px;
+}
+.secao-6 h2{
+    color: white;
+    font-size: 22px;
+}
+iframe{
+    width: 700px;
+    height: 300px;
+}
+.secao-6 p{
+    background-color: #1d1d1d;
+    color: white;
+    padding: 15px;
+    margin: 30px auto;
+}
+.secao-6 ul{
+    margin: 40px auto;
+    width: 210px;  
+}
+.secao-6 a{
+    background-color: white;
+    color:#1d80c1;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+.secao-6 h6{
+    text-align: center;
+    margin: 0 auto;
+    background-color: #000000;
+    font-size: 18px;
+    color: white;
+    width: 400px;
+    border-radius: 50px;
+}
+.secao-6 h6 span{
+    color: yellow;
+}
